@@ -1,0 +1,20 @@
+//creat an html document using pragraph ,bold text ,single line break ,orderd list ,title of an html document.
+
+
+<html>
+<head>
+<title> assignment-3 </title>
+</head>
+<body>
+<h1> save nature </h1>
+<p>
+we should clean the<b> nature </b>we should also save the trees rivers <br> natute is our frind ,we have to save the nature
+</p>
+<h2> list of rivers </h2>
+<ol>
+<li>ganga </li>
+<li>godavari </li>
+<li>krushna </li>
+</ol>
+</body>
+</html>
